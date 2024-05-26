@@ -3019,19 +3019,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aldair\\.nuget\\packages\\": {}
+    "C:\\Users\\Renzo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aldair\\Desktop\\PC\\PC3\\PC3.csproj",
+      "projectUniqueName": "C:\\PROYECTOS\\PC3_LopezRenzo\\PC3\\PC3.csproj",
       "projectName": "PC3",
-      "projectPath": "C:\\Users\\Aldair\\Desktop\\PC\\PC3\\PC3.csproj",
-      "packagesPath": "C:\\Users\\Aldair\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aldair\\Desktop\\PC\\PC3\\obj\\",
+      "projectPath": "C:\\PROYECTOS\\PC3_LopezRenzo\\PC3\\PC3.csproj",
+      "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
+      "outputPath": "C:\\PROYECTOS\\PC3_LopezRenzo\\PC3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aldair\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Renzo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3100,7 +3100,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
